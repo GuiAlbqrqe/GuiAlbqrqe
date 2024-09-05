@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GuiAlbqrqe/GuiAlbqrqe/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GuiAlbqrqe/GuiAlbqrqe/main/snake.svg" alt="Snake animation" />
 
 ###
 
