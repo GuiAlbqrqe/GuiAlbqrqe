@@ -17,8 +17,8 @@
   <a href="https://www.linkedin.com/in/guialbqrqe/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="1de9b6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Meu%20Portif%C3%B3lio&logo=linktree&label=&color=1de9b6&logoColor=1de9b6&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
+  <a href="https://guialbqrqe.github.io/meu-portifolio/index.html" target="_blank">     
+     <img src="https://img.shields.io/static/v1?message=Meu%20Portif%C3%B3lio&logo=linktree&label=&color=1de9b6&logoColor=1de9b6&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
 </div>
 
